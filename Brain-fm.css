@@ -35,8 +35,7 @@ input[type='button']{
     font-weight: bold;
     align-items: center;
    margin-top: 1000px;
-   margin-bottom: 150px;
-   
+   margin-bottom: 150px;   
 }
 
 .section-4{
@@ -62,12 +61,10 @@ input[type='button']{
     font-size: 20px;
 }
 
-
 .headline-2{
     font-size: 30px;
     margin-top: 5px;
-    font-weight: bold;
-    
+    font-weight: bold;    
 }
 
 .headline-3{
